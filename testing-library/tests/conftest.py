@@ -1,4 +1,4 @@
-# my-app/tests/conftest.py
+# testing-library/tests/conftest.py
 
 pytest_plugins = [
     "testing_library.fixtures",
